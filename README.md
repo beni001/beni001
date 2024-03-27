@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bemjamin M</h1>
+<h1 align="center">Hi 👋, I'm Benjamin M</h1>
 <h3 align="center">A 10x wannabe fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beni001&label=Profile%20views&color=0e75b6&style=flat" alt="beni001" /> </p>
