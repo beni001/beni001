@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **pytorch, postgress db docker and aws**
 
-- 👨‍💻 All of my projects are available at [https://beniportfolio.vercel.app/](https://beniportfolio.vercel.app/)
-
 - 💬 Ask me about **design and software development**
 
 - 📫 How to reach me **benmwenda4070@gmail.com**
